@@ -1,4 +1,4 @@
-A project using JavaScript from a course on Udemy.
+A project using JavaScript from a course on Udemy(work with API, Asynchronous JavaScript).
 
 ## Build Setup
 
